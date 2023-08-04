@@ -9,3 +9,8 @@ This repository contains the Jupyter Notebook file for leaf classification and d
 This project utilizes the Segment Anything Model (SAM) developed by Meta AI Research, FAIR. The 'SAM' model is licensed under the Apache 2.0 license.
 For more details about the 'SAM' model and its development, you can visit the official Meta AI Research repository at [https://github.com/facebookresearch/segment-anything].
 
+
+## License
+
+The model is licensed under the [MIT License](LICENSE)
+

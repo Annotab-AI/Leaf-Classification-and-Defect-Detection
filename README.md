@@ -4,7 +4,7 @@
 
 [[`Blog`](https://annotab.com/blog/)]
 
-This repository contains the Jupyter Notebook file for leaf classification and defect detection (leaf_classification_and_defect_detection.ipynb), along with the link for downloading the [trained model checkpoint](https://drive.google.com/file/d/1lSCBCc7bfBQVYVeb6YSGtA6iCTSRJd5g/view?usp=sharing) (leaf_classification_vgg19.h5).
+This repository contains the Jupyter Notebook file for leaf classification and defect detection (leaf_classification_and_defect_detection.ipynb), along with the link for downloading the [trained model checkpoint](https://drive.google.com/file/d/1lSCBCc7bfBQVYVeb6YSGtA6iCTSRJd5g/view?usp=sharing) (leaf_classification_vgg19.h5). 
 
 ## License
 
